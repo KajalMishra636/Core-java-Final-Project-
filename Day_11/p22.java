@@ -1,0 +1,33 @@
+package Day_11;
+/*
+ Dynamic Binding (Late Binding)
+ 
+ 1. Method call is resolved at runtime, depending on the object type.
+ 2. Work with method overriding .
+ 3. Used with inheritance and polymorphism.
+ 
+ 
+ */
+
+//example 1: Method Overiding
+class Animal3 {
+	void sound() {
+		System.out.println("Animal3 makes sound");
+	}
+}
+
+class Dog3 extends Animal3 {
+	void sound() {
+		System.out.println("Dog3 barks");
+	}
+}
+public class p22 {
+
+	public static void main(String[] args) {
+	Animal3 obj = new Dog3() ;//parent reference, child object
+	obj.sound();              // calls Dog3's sound at runtime
+		
+	}
+
+	}
+
