@@ -1,7 +1,7 @@
 
 # Student Management System (Advanced Version)
 
-![Student Management System Logo](<img width="465" height="364" alt="Screenshot 2025-10-23 142751" src="https://github.com/user-attachments/assets/c599a4cf-67b5-499c-88d9-090d30fbc6d1" />
+(<img width="465" height="364" alt="Screenshot 2025-10-23 142751" src="https://github.com/user-attachments/assets/c599a4cf-67b5-499c-88d9-090d30fbc6d1" />
 
 )  <!-- Replace with your own logo -->
 
