@@ -48,7 +48,7 @@ Replace with your own screenshots from your program run:
 ---
 
 ## 📂 Folder Structure
-
+```
 student-management-system/
 │
 ├── src/
@@ -99,3 +99,4 @@ student-management-system/
 ├── README.md
 ├── pom.xml
 └── LICENSE
+```
