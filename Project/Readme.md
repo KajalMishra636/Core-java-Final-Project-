@@ -48,17 +48,54 @@ Replace with your own screenshots from your program run:
 ---
 
 ## 📂 Folder Structure
+
 student-management-system/
 │
-├── src/ # Java source files
-|
-│ ├── com/kajal/Project/
-│ │ ├── Student.java
-│ │ ├── UndergraduateStudent.java
-│ │ ├── PostgraduateStudent.java
-│ │ ├── FileManager.java
-│ │ ├── InvalidInputException.java
-│ │ └── StudentManagement.java
-├── student_data.txt # Serialized student records
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   └── studentmanagement/
+│   │   │   │       ├── model/
+│   │   │   │       │   ├── Student.java
+│   │   │   │       │   ├── UndergraduateStudent.java
+│   │   │   │       │   └── PostgraduateStudent.java
+│   │   │   │       │
+│   │   │   │       ├── service/
+│   │   │   │       │   ├── StudentService.java
+│   │   │   │       │   └── FileHandlingService.java
+│   │   │   │       │
+│   │   │   │       ├── exception/
+│   │   │   │       │   ├── StudentNotFoundException.java
+│   │   │   │       │   └── InvalidInputException.java
+│   │   │   │       │
+│   │   │   │       ├── util/
+│   │   │   │       │   └── ValidationUtil.java
+│   │   │   │       │
+│   │   │   │       └── StudentManagementSystem.java
+│   │   │   │
+│   │   └── resources/
+│   │       └── config.properties
+│   │
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── studentmanagement/
+│                   └── test/
+│                       ├── StudentServiceTest.java
+│                       └── FileHandlingServiceTest.java
+│
+├── data/
+│   └── student_data.txt
+│
+├── docs/
+│   ├── JavaDoc/
+│   └── user-manual.md
+│
+├── lib/
+│   └── external-dependencies.jar
+│
+├── .gitignore
 ├── README.md
-└── .gitignore
+├── pom.xml
+└── LICENSE
