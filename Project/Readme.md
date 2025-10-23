@@ -51,6 +51,7 @@ Replace with your own screenshots from your program run:
 student-management-system/
 │
 ├── src/ # Java source files
+|
 │ ├── com/kajal/Project/
 │ │ ├── Student.java
 │ │ ├── UndergraduateStudent.java
