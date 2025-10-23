@@ -39,6 +39,7 @@
 
 ## 🖥️ Screenshots
 Replace with your own screenshots from your program run:
+<img width="1803" height="974" alt="image" src="https://github.com/user-attachments/assets/8a710b37-abad-4b45-b581-fe694a3b9ac1" />
 
 - Main Menu
 - Adding Student
