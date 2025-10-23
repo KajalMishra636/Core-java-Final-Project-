@@ -1,7 +1,8 @@
 
 # Student Management System (Advanced Version)
 
-![Student Management System Logo](assets/insta1-removebg-preview.png)  <!-- Replace with your own logo -->
+![Student Management System Logo](<img width="465" height="364" alt="image" src="https://github.com/user-attachments/assets/4749479e-f278-4e33-954e-9eeb700b7aa3" />
+)  <!-- Replace with your own logo -->
 
 **Author:** Kajal Mishra  
 **PRs Welcome** | **License:** MIT | **Tech Stack:** Java, File Handling, OOP  
