@@ -5,7 +5,7 @@
 
  <!-- Replace with your own logo -->
 
-**Author:** Kajal Mishra  
+**👩‍💻Author:** Kajal Mishra  
 **PRs Welcome** | **License:** MIT | **Tech Stack:** Java, File Handling, OOP  
 
 ---
